@@ -69,6 +69,7 @@
 
   This application is a PWA text editor that stores data locally using indexDB and can be used offline as necessary. 
   Use the link below to access Heroku
+  [heroku](https://fathomless-dusk-38891.herokuapp.com/)
 
   
 
