@@ -66,8 +66,11 @@
     ```
 
   ## [Usage](#table-of-contents)
-  
+
   This application is a PWA text editor that stores data locally using indexDB and can be used offline as necessary. 
+  Use the link below to access Heroku
+
+  
 
   ## [License](#table-of-contents)
   n/a
